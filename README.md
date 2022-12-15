@@ -24,7 +24,7 @@ You must use Pandas to answer the following questions:
 ## Files
 
 * *demographic_data_analyzer.py*: is where the code is written.
-* *test_module.py*: contains the tests that were necessary for the correction.
+* *test_module.py*: contains the tests that is necessary for the correction.
 * *main.py*: file that must be run to test the code.
 * *demographic_data_analyzer.ipynb*: is a notebook file that contains the questions and the code to answer them
 * *adult.data.csv*: is the csv file where the data is stored
